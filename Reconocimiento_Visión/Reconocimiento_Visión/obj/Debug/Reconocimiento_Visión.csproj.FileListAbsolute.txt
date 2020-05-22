@@ -1,0 +1,17 @@
+D:\Documents\VisualStudio\Repos\Reconocimiento_Visión\Reconocimiento_Visión\obj\Debug\Reconocimiento_Visión.csprojAssemblyReference.cache
+D:\Documents\VisualStudio\Repos\Reconocimiento_Visión\Reconocimiento_Visión\obj\Debug\Reconocimiento_Visión.Form1.resources
+D:\Documents\VisualStudio\Repos\Reconocimiento_Visión\Reconocimiento_Visión\obj\Debug\Reconocimiento_Visión.Properties.Resources.resources
+D:\Documents\VisualStudio\Repos\Reconocimiento_Visión\Reconocimiento_Visión\obj\Debug\Reconocimiento_Visión.csproj.GenerateResource.cache
+D:\Documents\VisualStudio\Repos\Reconocimiento_Visión\Reconocimiento_Visión\obj\Debug\Reconocimiento_Visión.csproj.CoreCompileInputs.cache
+D:\Documents\VisualStudio\Repos\Reconocimiento_Visión\Reconocimiento_Visión\bin\Debug\Reconocimiento_Visión.exe.config
+D:\Documents\VisualStudio\Repos\Reconocimiento_Visión\Reconocimiento_Visión\bin\Debug\Reconocimiento_Visión.exe
+D:\Documents\VisualStudio\Repos\Reconocimiento_Visión\Reconocimiento_Visión\bin\Debug\Reconocimiento_Visión.pdb
+D:\Documents\VisualStudio\Repos\Reconocimiento_Visión\Reconocimiento_Visión\bin\Debug\Emgu.CV.xml
+D:\Documents\VisualStudio\Repos\Reconocimiento_Visión\Reconocimiento_Visión\bin\Debug\Emgu.CV.UI.xml
+D:\Documents\VisualStudio\Repos\Reconocimiento_Visión\Reconocimiento_Visión\bin\Debug\Emgu.Util.xml
+D:\Documents\VisualStudio\Repos\Reconocimiento_Visión\Reconocimiento_Visión\obj\Debug\Reconocimiento_Visión.csproj.CopyComplete
+D:\Documents\VisualStudio\Repos\Reconocimiento_Visión\Reconocimiento_Visión\obj\Debug\Reconocimiento_Visión.exe
+D:\Documents\VisualStudio\Repos\Reconocimiento_Visión\Reconocimiento_Visión\obj\Debug\Reconocimiento_Visión.pdb
+D:\Documents\VisualStudio\Repos\Reconocimiento_Visión\Reconocimiento_Visión\bin\Debug\Aspose.Email.dll
+D:\Documents\VisualStudio\Repos\Reconocimiento_Visión\Reconocimiento_Visión\bin\Debug\Aspose.Email.xml
+D:\Documents\VisualStudio\Repos\Reconocimiento_Visión\Reconocimiento_Visión\obj\Debug\Reconocimiento_Visión.Form2.resources
