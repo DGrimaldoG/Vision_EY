@@ -20,7 +20,7 @@ namespace Reconocimiento_Visión
             Boolean Confirmación;
             try
             {
-
+                //Dani me la pela
                 var client = new SmtpClient("smtp.gmail.com", 587)
                 {
                     Credentials = new NetworkCredential("royez56@gmail.com", "alexi-200"),
